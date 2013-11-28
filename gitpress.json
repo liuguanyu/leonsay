@@ -1,7 +1,6 @@
 {
     "docs"      : ["posts"],
-    "template"  : "default",
-    "domain_alias" :  ["your.domain"],  
+    "template"  : "phase",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
@@ -10,19 +9,7 @@
         "\\.html?$"            : "html",
         ".*"                   : "text"     
     },
-    "title"  : "Akira's Blog",
-    "description" : "My Blog Description...",
-    "comment"  : {"type":"disqus", "short_name":"gitpress"},
-    "friends"  : [
-        {
-          "name"  : "github",
-          "title"  : "github",
-          "url"  : "http://github.com"        
-        },
-        {
-          "name"  : "gitpress",
-          "title"  : "gitpress",
-          "url"  : "http://gitpress.org"
-        }
-    ] 
+    "title"  : "非主流童话",
+    "description" : "记录人生和代码的成长",
+    "comment"  : {"type":"duoshuo", "short_name":"gitpress"},
 }
