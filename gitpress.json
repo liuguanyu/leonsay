@@ -1,5 +1,5 @@
 {
-    "docs"      : ["posts"],
+    "docs"      : ["README.md"],
     "template"  : "phase",
     "perpage"   : 10,
     "order"  : "number",
