@@ -1,6 +1,6 @@
 {
     "docs"      : ["README.md"],
-    "template"  : "pithiness",
+    "template"  : "default",
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
